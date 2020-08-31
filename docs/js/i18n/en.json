@@ -1,0 +1,18 @@
+{"@metadata": {
+		"authors": [
+			"onesait platform, Indra Company"
+		]
+	},	
+    "menu-catalogo":"Catalogue",
+	"menu-language":"EN",
+	"h2-onesait":"What is Onesait Platform?",	 
+	"props-item-Description-1":"Onesait Platform is an Open Source Digital Platform that enables the agile development of solutions on standard and opensource technologies and enables automatic deployment with Docker and Kubernetes on CaaS, managing the entire product life cycle",
+	"props-item-Description-2":"If you are looking for business support, you want to be a partner of Onesait Platform, you can contact us at",	
+	"dashboards-desc1":"It allows the user of the platform to create visual dashboards that exploit the information of the platform regardless of the repository, supporting the breakdown, permissions, complex visualization of different gadgets.",
+	"dashboards-desc2":"They are the visual elements that make up the dashboards, such as bar graphs, lines, kpis, ... the platform offers a set of pre-created gadgets for business users and the ability to create new gadgets through the concept of Templates / Templates in the that I can incorporate Javascript libraries"	,
+	"marketgadgets":"In this market we are creating a common space for users to share gadget templates, This is achieved by improving reuse, which entails, among other things, increasing development speed, quality, and economic savings. It also allows from the beginning to have a large catalog of gadget templates, which we can use and learn from them. Not only can we use this repository, we can import gadget templates from other repositories that meet the file structure standard.",
+	"h2-how-obtain":"How to obtain the GADGETS TEMPLATES?",
+	"github":"On this page we can see the current catalog of this repository.",
+	"githubcontrolpanel":"From the control panel of our installation we can import them, accessing the menu option import gadgets templates, from the gadget management screen. From there we will also have the option of uploading them to the MARKETPLACE GADGETS TEMPLATES.",
+	"h2-catalog-gad":"GADGETS TEMPLATES CATALOG"
+}

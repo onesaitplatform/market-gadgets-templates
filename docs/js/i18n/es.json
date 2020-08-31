@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"onesait platform"
+		]
+	},
+	"menu-catalogo":"Catálogo",
+	"menu-language":"ES",	
+	"h2-onesait":"¿Qué es Onesait Platform?",
+	"props-item-Description-1":"Onesait Platform es una Plataforma Digital Open Source que habilita el desarrollo ágil de soluciones sobre tecnologías estándares y opensource y habilita el despliegue automático con Docker y Kubernetes sobre CaaS gestionando todo el ciclo de vida del producto",
+	"props-item-Description-2":"Si estás buscando soporte empresaria lo quieres ser partner de Onesait Platform, puedes contactar con nosotros en",	
+	"dashboards-desc1":"Permite al usuario de la plataforma crear cuadros de mando visuales que explotan la información de la plataforma sea cual sea el repositorio, apoyando el desglose, permisos, visualización compleja de diferentes gadgets.",
+	"dashboards-desc2":"Son los elementos visuales que componen los dashboards, como gráficos de barras, lineas, kpis,...  la plataforma ofrece un conjunto de gadgets precreados para usuarios de negocio y la capacidad de crear nuevos gadgets a través del concepto de Templates/Plantillas en los que puedo incorporar librerías Javascript"	,
+	"marketgadgets":"En este market estamos creando un espacio común para que los usuario puedan compartir gadgets templates, con esto se consigue, mejorar la reutilización lo que conlleva entre otras cosas, aumentar velocidad de desarrollo, la calidad, y ahorro económico. Además permite desde un inicio tener un gran catálogo de gadgets templates, que podemos utilizar y aprender de ellos. No sólo podremos usar este repositorio, podremos importar gadgets templates de otros repositorios que cumplan el estandar de estructura de ficheros.",
+	"h2-how-obtain":"¿Cómo obtener los GADGETS TEMPLATES?",
+	"github":" En esta página podemos ver el cátalogo actual de este repositorio.",
+	"githubcontrolpanel":"Desde control panel de nuestra instalación podremos importarlos, accediendo a la opción del menú importar gadgets templates, desde la pantalla de gestión de gadgets. Desde ahí tambien tendremos la opción de subirlos al MARKETPLACE GADGETS TEMPLATES.",
+	"h2-catalog-gad":"CATALOGO GADGETS TEMPLATES"
+}
